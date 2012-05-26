@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = %q{hemanth.hm@gmail.com}
   s.files = ["Rakefile", "lib/hackersays.rb", "bin/hackersays"]
   s.test_files = Dir.glob('test/*.rb')
-  s.homepage = %q{http://rubygems.org/gems/gita}
+  s.homepage = %q{http://hemanth.github.com/hackersay-gem/}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
   s.summary = %q{Hackersays!}
