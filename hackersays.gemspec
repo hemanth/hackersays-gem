@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.bindir = 'bin'
   s.executables = 'hackersays'
   s.add_dependency('json', '>= 1.0.0')
-  s.add_dependency('oepn-uri', '>= 1.0.0')
+  s.add_dependency('open-uri', '>= 1.0.0')
   if s.respond_to? :specification_version then
     s.specification_version = 3
 
